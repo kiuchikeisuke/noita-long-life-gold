@@ -1,0 +1,7 @@
+<Mod
+	name="Long Life Gold"
+	description="Gold has long life!!"
+	tags="gameplay,cheats"
+	dont_upload_files="mod.xml|version.txt"
+>
+</Mod>
